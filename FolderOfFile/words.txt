@@ -1,0 +1,8 @@
+By default, all fields in your return iterable will be rendered as-is.
+While this works great when you’re just dealing with Python data structures, it can become very frustrating when working with objects.
+To solve this problem, Flask-RESTful provides the fields module and the marshal_with() decorator.
+Similar to the Django ORM and WTForm, you use the fields module to describe the structure of your response.
+
+Flask-RESTful understands multiple kinds of return values from view methods.
+Similar to Flask, you can return any iterable and it will be converted into a response, including raw Flask response objects.
+Flask-RESTful also support setting the response code and response headers using multiple return values, as shown below.
