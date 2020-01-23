@@ -31,14 +31,13 @@ def delete_leaf_node(root_node, d_node):
     while len(q):
         temp_node = q.pop(0)
         if temp_node is d_node:
-            temp_node = None
             return
         if temp_node.right:
             if temp_node.right is d_node:
                 temp_node.right = None
                 return
             else:
-                q.append(temp_node.right)
+                q.append(temp_node.right) 
         if temp_node.left:
             if temp_node.left is d_node:
                 temp_node.left = None

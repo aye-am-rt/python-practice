@@ -1,6 +1,0 @@
-
-wpython:S117"YRename this local variable "allWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ˆúó8ùûŞ¬ù-
-|python:S117	"YRename this local variable "lineList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÊ”ÿÿÿÿÿ8ı«¬ù-
-wpython:S117"YRename this local variable "eachLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Œƒä8êİĞ¬ù-
-python:S117"aRename this local variable "wordsListOfaLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¨ìñ8¬ÎÚ¬ù-
-€python:S117"bRename this local variable "counterDictionary" to match the regular expression ^[_a-z][a-z0-9_]*$.(âóïË8àÎé¬ù-

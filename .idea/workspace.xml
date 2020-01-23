@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/670b8c99f9d386a5dcd7d6d791e8c95c6ad13cb4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab6319d96e58294a54e7ae2133d7f58dc26a173d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FolderOfFile/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/maximumSumSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/mirrorImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/spiralMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/squareRoot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/upperTriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/wordCounting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/l_Palindromic_Substr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/670b8c99f9d386a5dcd7d6d791e8c95c6ad13cb4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +44,28 @@
       <recent name="H:\intPython2-cg\python-practice\py-practice\FolderOfFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mergeSortedArray">
+  <component name="RunManager" selected="Python.l_Palindromic_Substr">
+    <configuration name="l_Palindromic_Substr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/l_Palindromic_Substr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mergeSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,34 +150,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wordCounting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="H:\intPython2-cg\python-practice\py-practice\wordCounting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.l_Palindromic_Substr" />
         <item itemvalue="Python.mergeSortedArray" />
         <item itemvalue="Python.permutations" />
         <item itemvalue="Python.squareRoot" />
         <item itemvalue="Python.wordCounting (1)" />
-        <item itemvalue="Python.wordCounting" />
       </list>
     </recent_temporary>
   </component>
@@ -206,22 +190,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1578763463564" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1578775154652">
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1578811890067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578775154652" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1578775154651">
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1578811890067" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1579726409255">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578775154651" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1578775154650">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579726409255" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1579726409254">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578775154650" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1578775154651">
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1579726409254" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1579726409254">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578775154651" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1579726409254" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1579726409255">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1579726409255" />
+    <state x="65" y="72" key="new project wizard" timestamp="1578811895168">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="72" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1578811895168" />
     <state x="324" y="95" width="700" height="530" key="recent.locations.popup" timestamp="1578690776441">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
