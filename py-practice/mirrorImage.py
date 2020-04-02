@@ -15,8 +15,8 @@ def print_tree_elements(node):
 def make_mirror_tree(root):
     if root is None:
         return
-    else:
-        temp_node = root
+    # else:
+    #     temp_node = root
     make_mirror_tree(root.left)
     make_mirror_tree(root.right)
 
@@ -26,11 +26,11 @@ def make_mirror_tree(root):
 
 
 if __name__ == "__main__":
-    root = BinaryTree(56)
-    root.left = BinaryTree(98)
-    root.right = BinaryTree(33)
-    root.left.left = BinaryTree(512)
-    root.left.right = BinaryTree(258)
+    root = BinaryTree(1)
+    root.left = BinaryTree(3)
+    root.right = BinaryTree(2)
+    # root.left.left = BinaryTree(512)
+    # root.left.right = BinaryTree(258)
     print("Traversing the primary tree")
     print_tree_elements(root)
     make_mirror_tree(root)

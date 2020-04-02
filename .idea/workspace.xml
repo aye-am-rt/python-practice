@@ -2,16 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/py-practice/l_Palindromic_Substr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/670b8c99f9d386a5dcd7d6d791e8c95c6ad13cb4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/OuterInner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/display_info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/firstClassClosures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/snippets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstClassAndClosures/wrapperExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/LISPrint2Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/LISPrinting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/NQueenBT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/RCknights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/mergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/minJumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/minPathMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/minPathMatrix2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/parenthesesBalencer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/perfectSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/segrPosNeg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/stringPermutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_tab/subsetSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/DecoratorsGS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/classMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/class_vars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/inheritenceP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/oop1_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_CS/opr_overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/BTtoDLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/BTtoDLL2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/DiffIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/DivideArrayKParts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/FindMaxNCR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/FindPreSuc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/FindPreSucMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/IncDecArrayCond2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/LevelOQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MakeORTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxHeightBST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxInLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxLenCond1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxMinBT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxRepONO1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/MaxTHArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/SortKModulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/SumBottomView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/SumPrePost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/TreeFromPO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/TreePO_IN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/MakeBigestNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/MaxBitonicLength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/MaxOfSubArrayDQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/MaxSumBitonic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/MaxSumBitonic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/PrintAllPaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/RainWaterTrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/RainWaterTrap2n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/SortStringON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/StocksBuySell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_tab/stacksTab/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-practice/mirrorImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/mirrorImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-practice/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/permutations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +86,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WDEke5rUJBPaet9lLDttsjSoEO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,12 +99,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\intPython2-cg\python-practice\firstClassAndClosures" />
       <recent name="H:\intPython2-cg\python-practice" />
       <recent name="H:\intPython2-cg\python-practice\py-practice\FolderOfFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.l_Palindromic_Substr">
-    <configuration name="l_Palindromic_Substr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.MaxOfSubArrayDQ">
+    <configuration name="MakeBigestNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sec_tab/stacksTab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/l_Palindromic_Substr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec_tab/stacksTab/MakeBigestNum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mergeSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxOfSubArrayDQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sec_tab/stacksTab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/mergeSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec_tab/stacksTab/MaxOfSubArrayDQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RainWaterTrap2n" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sec_tab/stacksTab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec_tab/stacksTab/RainWaterTrap2n.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squareRoot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="minPathMatrix2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_tab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/squareRoot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_tab/minPathMatrix2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wordCounting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mirrorImage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/wordCounting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/mirrorImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.l_Palindromic_Substr" />
-        <item itemvalue="Python.mergeSortedArray" />
-        <item itemvalue="Python.permutations" />
-        <item itemvalue="Python.squareRoot" />
-        <item itemvalue="Python.wordCounting (1)" />
+        <item itemvalue="Python.MaxOfSubArrayDQ" />
+        <item itemvalue="Python.minPathMatrix2" />
+        <item itemvalue="Python.MakeBigestNum" />
+        <item itemvalue="Python.mirrorImage" />
+        <item itemvalue="Python.RainWaterTrap2n" />
       </list>
     </recent_temporary>
   </component>
@@ -185,38 +245,41 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578763463564">
+    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584020966491">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1578763463564" />
-    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1578811890067">
+    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1584020966491" />
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1579801974091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1578811890067" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1579726409255">
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1579801974091" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1585816590652">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579726409255" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1579726409254">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585816590652" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1585816590652">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1579726409254" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1579726409254">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585816590652" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1585816590652">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1579726409254" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1579726409255">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585816590652" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1585816590652">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1579726409255" />
-    <state x="65" y="72" key="new project wizard" timestamp="1578811895168">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585816590652" />
+    <state x="65" y="0" key="new project wizard" timestamp="1579801987148">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="65" y="72" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1578811895168" />
-    <state x="324" y="95" width="700" height="530" key="recent.locations.popup" timestamp="1578690776441">
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1579801987148" />
+    <state x="324" y="95" width="700" height="530" key="recent.locations.popup" timestamp="1583190938466">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="324" y="95" width="700" height="530" key="recent.locations.popup/0.0.1366.738@0.0.1366.738" timestamp="1578690776441" />
+    <state x="324" y="95" width="700" height="530" key="recent.locations.popup/0.0.1366.738@0.0.1366.738" timestamp="1583190938466" />
   </component>
 </project>
