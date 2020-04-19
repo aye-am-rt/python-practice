@@ -6,7 +6,6 @@ def printLISMain(lst, n):
         return lst
     listTillI = [[] for i in range(n)]  # [[] * (n+1)] this is not working. later showing index out of range
     listTillI[0].append(lst[0])
-    resultList = []
     # arr = [10, 22, 9, 33, 21, 50, 41, 60, 80]
     for i in range(1, n):
         for j in range(i):

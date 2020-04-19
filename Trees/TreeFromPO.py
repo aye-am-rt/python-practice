@@ -68,3 +68,20 @@ if __name__ == '__main__':
 
     print("Inorder traversal of the", "constructed tree: ")
     printInorder(root)
+
+#
+# Therefore, following combination can uniquely identify a tree.
+#
+# Inorder and Preorder.
+# Inorder and Postorder.
+# Inorder and Level-order.
+#
+# And following do not.
+# Postorder and Preorder.
+# Preorder and Level-order.
+# Postorder and Level-order.
+#
+# For example, Preorder, Level-order and Postorder traversals are same for the trees given in
+# above diagram.
+#
+# So, even if three of them (Pre, Post and Level) are given, the tree can not be constructed

@@ -1,3 +1,5 @@
+# Convert a given Binary Tree to Doubly Linked List | Set 4
+
 # In the following implementation, we traverse the tree in inorder fashion. We add nodes at the
 # beginning of current linked list and update head of the list using pointer to head pointer.
 # Since we insert at the beginning, we need to process leaves in reverse order. For reverse order, we
@@ -11,18 +13,19 @@ class Node:
         self.left = self.right = None
 
 
+# Convert a given Binary Tree to Doubly Linked List | Set 4
 class BTtoDll:
     root, head = None, None
 
-    def BTtoDLList(self, root: Node):
-        if root is None:
+    def BTtoDLList(self, rtNode: Node):
+        if rtNode is None:
             return
-        self.BTtoDLList(root.right)
-        root.right = self.head
+        self.BTtoDLList(rtNode.right)
+        rtNode.right = self.head
         if self.head is not None:
-            self.head.left = root
-        self.head = root
-        self.BTtoDLList(root.left)
+            self.head.left = rtNode
+        self.head = rtNode
+        self.BTtoDLList(rtNode.left)
 
     @staticmethod
     def print_list(head: Node):
@@ -32,6 +35,7 @@ class BTtoDll:
             head = head.right
 
 
+# Convert a given Binary Tree to Doubly Linked List | Set 4
 # Driver Code
 if __name__ == '__main__':
     """ 

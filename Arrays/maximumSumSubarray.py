@@ -22,5 +22,6 @@ def maxSubArraySum(a, size):
 
 
 if __name__ == "__main__":
-    l1 = [int(x) for x in input("give space separated numbers positive or negative = ").split()]
-    maxSubArraySum(l1, len(l1))
+    # l1 = [int(x) for x in input("give space separated numbers positive or negative = ").split()]
+    ar = [-10, -2000, 3, 4, 10, -1, -2, -3, 23, -56, 67, 8]
+    maxSubArraySum(ar, len(ar))
