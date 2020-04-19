@@ -69,3 +69,8 @@ if __name__ == "__main__":
     arr = [12, 1, 78, 90, 57, 89, 56]
     k = 3
     printMaxInSubArrays(arr, len(arr), k)
+
+    # adding two numbers without using plus operator
+    a = -16
+    b = 66
+    print((a ^ b) + 2 * (a & b))

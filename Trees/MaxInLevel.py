@@ -15,8 +15,8 @@ def FindMaxAtLevel(root, level):
     if level == 0:
         return root.data
 
-    lMax = FindMaxAtLevel(root.left, level-1)
-    rMax = FindMaxAtLevel(root.right, level-1)
+    lMax = FindMaxAtLevel(root.left, level - 1)
+    rMax = FindMaxAtLevel(root.right, level - 1)
 
     return max(lMax, rMax)
 
@@ -48,3 +48,5 @@ if __name__ == '__main__':
     # rt.left.left = Node(4)
     # rt.left.right = Node(5)
     print(FindMaxAtLevel(rt, lvl))
+    # num = 2.625
+    # print(bin(num))
