@@ -14,7 +14,7 @@ def isSubsetSum(l1, n, findSum):
     #     if i > findSum:
     #         l1.remove(i)
     # n = len(l1)
-    if l1[n - 1] > findSum:
+    if l1[n - 1] > findSum:  # Given a set of non-negative integers
         return isSubsetSum(l1, n - 1, findSum)
     return isSubsetSum(l1, n - 1, findSum) or isSubsetSum(l1, n - 1, findSum - l1[n - 1])
 

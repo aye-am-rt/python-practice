@@ -85,10 +85,10 @@ def findMinJumps(arr):
                 jump_path_array[i] = j
                 break
 
-    print("given array = ", end=" ")
+    print("given array ===  ", end=" ")
     print(arr)
-    print(min_jumps_array)
-    print(jump_path_array)
+    print("min_jumps_array =", min_jumps_array)
+    print("jump path array =", jump_path_array)
     print("printing the path value of indices not the elements in array")
     #   str = 'Python' #initial string
     #   reversed=''.join(reversed(str))
@@ -102,7 +102,7 @@ def findMinJumps(arr):
         p = p + "--" + str(jump_path_array[c])
         c = jump_path_array[c]
     print(p[:1:-1])
-    # stringname[::-1] # method2 of reversing  a string 
+    # stringName[::-1] # method2 of reversing  a string
 
     return min_jumps_array[n - 1]
 

@@ -26,14 +26,19 @@ def productOfDigits(elem):
 def sortArrDigitsProduct(ar, ln):
     if ln == 1:
         print(ar[0])
-
+    print("given array == ", ar)
     PairList = []
     for elem in ar:
         PairList.append((productOfDigits(elem), elem))
-    PairList.sort()
+        # made a tuple of products of digits and the element in array
+    # when sorting done by default it will sort by first Element of tuple
+    print("pairList before sorting == ", PairList)
+    PairList.sort()  # or use reverse=True to sort in descending order
+    print("pairList after sorting increasing order == ", PairList)
 
     for i in range(len(PairList)):
         print(PairList[i][1], end="  ")
+    # printing the second elements of tuple which is also element in array
 
 
 if __name__ == "__main__":

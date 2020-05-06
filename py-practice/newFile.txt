@@ -1,0 +1,2 @@
+this is a msg
+this@can@be@done using@any delimiter#

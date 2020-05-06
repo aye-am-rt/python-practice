@@ -1,0 +1,7 @@
+json object is converted into serialijasion and de serialization.
+
+pythin has inbuild support.
+keys are always string.
+values could be anything,
+
+use dump function to write jason to a file. best way

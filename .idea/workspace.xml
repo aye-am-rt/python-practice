@@ -2,112 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DPS/SubMatrixAll1max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DPS/coinChangeDP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/DelNthLastLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/DeleteByRefLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/DeletionInLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/FlatBTtoLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/ReverseLL2pointers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/SwapKthSLList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/XorDLList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/createMaxLL2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sortings/ProductDigitsSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sortings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/ReverseAString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/BTtoDLL2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/MaxSumLevelBT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapqOrHeapUsingQueue/FindKClosestSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapqOrHeapUsingQueue/FindKclosestElemsArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapqOrHeapUsingQueue/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/MergingDictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/018df28cfba5a9f44da822b5c5150b7a598fa592" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/198c4c6aaefe653364dd746b2a7f8db42f99ae4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348128da838197f6dc6eeef30c22c58197673fa0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35a0b9527b5998558de1eaf3e1b0dfed460aff08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/399af6fd155ee9552e23bd522c7b23bd12aeb671" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4810f441fc9abe8a65573a15d5fe57c6760ea83b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60c11b23a5040e8963097af208144f87a92169e3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6759f2ef9d418c85e71c63ba94eac174bfefff2c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b938417577ea857491f999b8cdd3de103b6ccb4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77994863a8e02e5a0c422857170801f5c4b9e330" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79ee3be5154747cf303bfa36086122974fd8b5c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/9015e89cf61920abcf499b6ffe7f8d202f11a0cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93fc03fd9d441fd2b21c0f44602ef105866981e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bef1782c52b26a2542f5154c9047b96d5353a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab2c699a005f8de35e34cf5d1142c2499ad39fd6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b171352b78c890d86b079593fd0c89bba0823e45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4b319a00dc1c913e57988e8da133636b520de81" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a6f90958406636e6cb55decd107facf60e667f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d47535fcc512e3f3b42ec5087137821d4e3dc372" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6ceb7fcbc0ac33c84f2dde33a3740cce7e80584" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eebf4283289009911586a6b98e44ba3fcef3d563" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb393eba7defb4ba0e4ea6fa4ad7c97d1631f8b6" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/MinFebonacciJumpsArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/MinOfMaxJumpsK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ReachKthStepSomeBroken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/minJumps2same.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonPractice/JsFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonPractice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonPractice/json1Try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonPractice/jsonEquivalentPython.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonPractice/txt1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/ReverseLLGivenGroupSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrixes/MinStepsReachAnyEdge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/CountUnqSubSeqLnK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/GenerateStringKDistinct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubS3Geeks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubStringsLin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubstring2Hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LexoSmallest1Swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSWithKUniqueChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSWithKVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSeqOnlyVowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubStringOfVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/MinStepsEndOfString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/PartitionStrPartsEqualDChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/SumAtMaxDepthLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/KWargsDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/NumOfWaysCoverDistance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/filePyTraining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/newFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/newText2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practice/yieldsGenerator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/display_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/firstClassAndClosures/display_info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/snippets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/firstClassAndClosures/snippets.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/LISPrint2Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/LISPrint2Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/LISPrinting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/LISPrinting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/NQueenBT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/NQueenBT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/RCknights.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/RCknights.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/mergeSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/minJumps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/minJumps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/minPathMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/minPathMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/minPathMatrix2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/minPathMatrix2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/parenthesesBalencer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/parenthesesBalencer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/perfectSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/perfectSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/segrPosNeg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/segrPosNeg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/stringPermutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/stringPermutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_tab/subsetSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/subsetSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/binaryTreeInOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/binaryTreeInOut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/l_Palindromic_Substr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/l_Palindromic_Substr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists/linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/maximumSumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/mergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/mergeSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/mirrorImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/mirrorImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/spiralMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/spiralMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/upperTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/upperTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/BTtoDLL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BTtoDLL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/BTtoDLL2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bitwise/areGrayPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/DiffIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/DiffIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/DivideArrayKParts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/DivideArrayKParts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/FindMaxNCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/FindMaxNCR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/FindPreSuc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/FindPreSuc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/FindPreSucMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/FindPreSucMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/IncDecArrayCond2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/IncDecArrayCond2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/LevelOQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/LevelOQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MakeORTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/MakeORTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxHeightBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/MaxHeightBST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxInLevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/MaxInLevel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxLenCond1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxLenCond1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxMinBT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/MaxMinBT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxRepONO1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxRepONO1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/MaxTHArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/MaxTHArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/SortKModulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/SortKModulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/SumBottomView.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/SumBottomView.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/SumPrePost.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/SumPrePost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/TreeFromPO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/TreeFromPO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/TreePO_IN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/TreePO_IN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bitwise/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/MakeBigestNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/MaxBitonicLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxBitonicLength.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/MaxOfSubArrayDQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxOfSubArrayDQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/MaxSumBitonic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxSumBitonic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/MaxSumBitonic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxSumBitonic2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/PrintAllPaths.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/RainWaterTrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DPS/RainWaterTrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/RainWaterTrap2n.py" beforeDir="false" afterPath="$PROJECT_DIR$/DPS/RainWaterTrap2n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/SortStringON.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/SortStringON.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/StocksBuySell.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/StocksBuySell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_tab/stacksTab/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DPS/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/minJumps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/minJumps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/subsetSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/subsetSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sortings/ProductDigitsSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/ProductDigitsSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/stringPermutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/stringPermutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/MaxSumLevelBT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpOnNumberLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/mirrorImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/mirrorImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,19 +71,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\intPython2-cg\python-practice\Strings\KUniquesIntSubs" />
       <recent name="H:\intPython2-cg\python-practice\py-practice" />
       <recent name="H:\intPython2-cg\python-practice\sec_tab" />
       <recent name="H:\intPython2-cg\python-practice\DPS" />
       <recent name="H:\intPython2-cg\python-practice\LinkedLists" />
-      <recent name="H:\intPython2-cg\python-practice\Matrixes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FindKClosestSortedArray">
-    <configuration name="FindKClosestSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SumAtMaxDepthLevel">
+    <configuration name="L_Pal_SubSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heapqOrHeapUsingQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heapqOrHeapUsingQueue/FindKClosestSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FindKclosestElemsArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SumAtMaxDepthLevel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heapqOrHeapUsingQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heapqOrHeapUsingQueue/FindKclosestElemsArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/SumAtMaxDepthLevel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaxOfSubArrayDQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="filePyTraining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/MaxOfSubArrayDQ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/filePyTraining.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SwapKthSLList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="json1Try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonPractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/SwapKthSLList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JsonPractice/json1Try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="areGrayPairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mirrorImage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bitwise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bitwise/areGrayPairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/mirrorImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FindKClosestSortedArray" />
-        <item itemvalue="Python.FindKclosestElemsArray" />
-        <item itemvalue="Python.MaxOfSubArrayDQ" />
-        <item itemvalue="Python.SwapKthSLList" />
-        <item itemvalue="Python.areGrayPairs" />
+        <item itemvalue="Python.SumAtMaxDepthLevel" />
+        <item itemvalue="Python.mirrorImage" />
+        <item itemvalue="Python.json1Try" />
+        <item itemvalue="Python.filePyTraining" />
+        <item itemvalue="Python.L_Pal_SubSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -289,31 +227,38 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584020966491">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1584020966491" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587583812613">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587583812613" />
     <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1579801974091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1579801974091" />
-    <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1587248012883">
+    <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1588778254793">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587248012883" />
-    <state width="1323" height="141" key="GridCell.Tab.0.center" timestamp="1587248012882">
+    <state width="1323" height="141" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
+    <state width="1323" height="141" key="GridCell.Tab.0.center" timestamp="1588778254793">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587248012882" />
-    <state width="1323" height="141" key="GridCell.Tab.0.left" timestamp="1587248012882">
+    <state width="1323" height="141" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
+    <state width="1323" height="141" key="GridCell.Tab.0.left" timestamp="1588778254793">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587248012882" />
-    <state width="1323" height="141" key="GridCell.Tab.0.right" timestamp="1587248012882">
+    <state width="1323" height="141" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
+    <state width="1323" height="141" key="GridCell.Tab.0.right" timestamp="1588778254793">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587248012882" />
+    <state width="1323" height="141" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1586204393463">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -342,5 +287,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1586298107517" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1588334014446">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588334014446" />
   </component>
 </project>

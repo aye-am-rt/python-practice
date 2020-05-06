@@ -11,6 +11,6 @@ def allPerm(st1, st0):
 
 
 if __name__ == "__main__":
-    string1 = "rrt"
+    string1 = "abc"
     string0 = ""
     print(allPerm(string1, string0))

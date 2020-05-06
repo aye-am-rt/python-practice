@@ -25,5 +25,5 @@ def printRecursivePermutations(a, left, right):
 
 
 if __name__ == "__main__":
-    string = "four"
+    string = "abc"
     printRecursivePermutations(list(string), 0, len(string))

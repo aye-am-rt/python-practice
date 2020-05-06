@@ -25,3 +25,6 @@ if __name__ == "__main__":
     # l1 = [int(x) for x in input("give space separated numbers positive or negative = ").split()]
     ar = [-10, -2000, 3, 4, 10, -1, -2, -3, 23, -56, 67, 8]
     maxSubArraySum(ar, len(ar))
+    num1 = 1235421415454545454545454544
+    num2 = 1714546546546545454544548544544545
+    print(num1*num2)

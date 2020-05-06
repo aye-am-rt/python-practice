@@ -14,18 +14,19 @@ def MakeBiggestNum(arr, ln):
                 strKey = str(arr[i]) * req
                 strVal = str(arr[i])
                 NumDict[strKey] = strVal
-                arr[i] = str(arr[i]) * req
+                arr[i] = str(arr[i]) * req  # or strKey same thing
             else:
                 strKey = str(arr[i]) * req + str(arr[i])[0:k]
                 strVal = str(arr[i])
                 NumDict[strKey] = strVal
-                arr[i] = str(arr[i]) * req + str(arr[i])[0:k]
+                arr[i] = str(arr[i]) * req + str(arr[i])[0:k] # or strKey same thing
     arr.sort(reverse=True)
     print(arr)
     finalAns = ""
     print(NumDict)
     for i in arr:
         finalAns += NumDict.get(i)
+        # "".join(NumDict.get(i))
     return finalAns
 
 
