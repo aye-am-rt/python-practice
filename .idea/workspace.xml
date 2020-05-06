@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/MinFebonacciJumpsArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/MinOfMaxJumpsK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/ReachKthStepSomeBroken.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/minJumps2same.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonPractice/JsFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonPractice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonPractice/json1Try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonPractice/jsonEquivalentPython.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonPractice/txt1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists/ReverseLLGivenGroupSize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/MinStepsReachAnyEdge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/CountUnqSubSeqLnK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/GenerateStringKDistinct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubS3Geeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubStringsLin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubstring2Hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LexoSmallest1Swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSWithKUniqueChars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSWithKVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubSeqOnlyVowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubStringOfVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/MinStepsEndOfString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/PartitionStrPartsEqualDChars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/SumAtMaxDepthLevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/KWargsDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/NumOfWaysCoverDistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/filePyTraining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/newFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/newText2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/yieldsGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/CommonIn3Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/minJumps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/minJumps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/subsetSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/subsetSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sortings/ProductDigitsSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/ProductDigitsSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/stringPermutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/stringPermutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/MaxSumLevelBT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpOnNumberLine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/mirrorImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/mirrorImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +42,8 @@
       <recent name="H:\intPython2-cg\python-practice\LinkedLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SumAtMaxDepthLevel">
-    <configuration name="L_Pal_SubSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CommonIn3Lists">
+    <configuration name="CommonIn3Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +51,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/CommonIn3Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IntelligentSubStringsLin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings/KUniquesIntSubs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/KUniquesIntSubs/IntelligentSubStringsLin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReverseLL2pointers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/ReverseLL2pointers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filePyTraining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,53 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practice/filePyTraining.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json1Try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JsonPractice/json1Try.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mirrorImage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/mirrorImage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists/linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CommonIn3Lists" />
+        <item itemvalue="Python.IntelligentSubStringsLin" />
+        <item itemvalue="Python.linked_list" />
+        <item itemvalue="Python.ReverseLL2pointers" />
         <item itemvalue="Python.SumAtMaxDepthLevel" />
-        <item itemvalue="Python.mirrorImage" />
-        <item itemvalue="Python.json1Try" />
-        <item itemvalue="Python.filePyTraining" />
-        <item itemvalue="Python.L_Pal_SubSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -239,26 +198,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587583812613" />
-    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1579801974091">
+    <state width="1306" height="141" key="GridCell.Tab.0.bottom" timestamp="1588793625777">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1579801974091" />
-    <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1588778254793">
+    <state width="1306" height="141" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588793625777" />
+    <state width="1306" height="141" key="GridCell.Tab.0.center" timestamp="1588793625777">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
-    <state width="1323" height="141" key="GridCell.Tab.0.center" timestamp="1588778254793">
+    <state width="1306" height="141" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588793625777" />
+    <state width="1306" height="141" key="GridCell.Tab.0.left" timestamp="1588793625776">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
-    <state width="1323" height="141" key="GridCell.Tab.0.left" timestamp="1588778254793">
+    <state width="1306" height="141" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588793625776" />
+    <state width="1306" height="141" key="GridCell.Tab.0.right" timestamp="1588793625777">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
-    <state width="1323" height="141" key="GridCell.Tab.0.right" timestamp="1588778254793">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="141" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588778254793" />
+    <state width="1306" height="141" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588793625777" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1586204393463">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -275,10 +230,6 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586204393463" />
-    <state x="65" y="0" key="new project wizard" timestamp="1579801987148">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1579801987148" />
     <state x="324" y="95" width="700" height="530" key="recent.locations.popup" timestamp="1583190938466">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
