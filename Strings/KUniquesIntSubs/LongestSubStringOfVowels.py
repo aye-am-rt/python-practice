@@ -1,4 +1,3 @@
-# perm_identity
 # Longest substring of vowels
 # Given a string s of lowercase letters, we need to find the longest substring length that
 # contain (a, e, i, o, u) only.
@@ -11,7 +10,7 @@
 #
 # Input : s = "theeare"
 # Output : 3
-# Recommended: Please try your approach on {IDE} first, before moving on to the solution.
+
 # The idea is to traverse the string and keep track of current number of vowels in the string.
 # If we see a character that is not vowel, we reset count to 0. But before resetting we update
 # max count value which is going to be our result.
