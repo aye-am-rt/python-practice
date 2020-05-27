@@ -22,7 +22,13 @@ def print_spiral_matrix(m, n, a):
 
 
 if __name__ == '__main__':
-    r, c = input("give row and column for matrix").strip(" ").split(" ")
-    matrix = [[int(input("give a number ")) in range(int(c))] in range(int(r))]
-    print(str(matrix))
-    print_spiral_matrix(int(r), int(c), matrix)
+    # r, c = input("give row and column for matrix").strip(" ").split(" ")
+    # matrix = [[int(input("give a number ")) for i in range(int(c))] for j in range(int(r))]
+    # print(str(matrix))
+    myMat = [[91, 29, 38, 46],
+             [54, 65, 73, 58],
+             [95, 10, 11, 12],
+             [13, 14, 15, 16]]
+    r, c = 4, 4
+    print("matrix in spiral form == ")
+    print_spiral_matrix(int(r), int(c), myMat)

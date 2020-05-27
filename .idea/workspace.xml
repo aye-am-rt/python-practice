@@ -20,111 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/MoveAllEqKEndArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/NthUglyNumBetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/NthUglyNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/SubArrays/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/SubSets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/PrintDiamondStars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/PrintPascalsTraingle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/patternGeeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCS_CG/JsonPractice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCS_CG/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCS_CG/newText2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestKNormSubString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practiceMixed/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06ccad405e33beb772a5558cf8c5954e3236d191" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a48dc30dc85c03bfd73226708e589b52f0bd443" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b66fa506e28b614bb83c86089abc620f0c616bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/268c68fb11f4955674ec3bf678d786efa63c7a1f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32566910c169c6e0977d34e611fe1b4902379eb9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/380af1b83eb5b674467a9bc219a8ab100d5170b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/484ee7459a01c2d33b5797d29046f759f9527f41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b99c032420b6b594879c18850c6eeb6a76b032a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/558b572e84eb4019bf0fa8c5612a7123ce603b51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/565202edc44ba83733e1e810becf18e7e4f82579" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56c640882fe149d1259e0026678407cc41fe6f30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/596d16272c74db36a514f775420f126874b948ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e27904af77484f88d6fd066fed8f002fd5eca4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64ddb3b0d613e89f9e9ef9cc432fcc0500fc152d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b04bbad246c25181381ebf0ce5df505da43f908" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f8e95971baf96bc666a1b9d07f8efa4edf3413a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/833fe98a087732c2bf1c503b9bdbb739e9d5095a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/887f63de84ba12f68ab4b0f85ff5be7d6e45e2be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f101a279a2a49f537bef8ef4c0b0a0b080ab6de" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a87fb0ff67d84afa3d387069f6632e08a79a2aff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab6319d96e58294a54e7ae2133d7f58dc26a173d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac5465247524746902c42f73dbfeed3a6183f29e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad1a12456f618a7c9fd10797fda6d13886591dc6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae84dbbad4613fc3751b5bd26115a9f00c804410" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdb6195f28e2ada968e89808d9d46fe3371d3530" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f919296a5fa5acec7f7e79938177b745b2110b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb6d331e6ec68a99bd7a33934b0989d1c59a940e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d63b66ae7b7c51973bcd20273dbdf0e74c689042" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0078b7528f0eaa23fc5bf63f83e8f5aa3255bf2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e67dd6f3ea7d75cb0ccfef75c1e9e42b404a61b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eaf13424fa995695b39ffb2a3224439d8e7e0e04" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb648bc9ae59b761a0fcb96f3ef99f665003d50c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrixes/CheckWordExists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrixes/SearchWordIn2DGrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heapqOrHeapUsingQueue/PqUsingBinaryHeap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/2WaterJugMeasure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/Celibrity2Pointers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/CelibrityProblemRecursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/DiffIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/DiffIndexEqualsElemDiffs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/DivideArrayKParts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubArrays/DivideArrayKParts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/IncDecArrayCond2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/BiTonicArrays/IncDecArrayCond2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/JumpOnNumberLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/JumpOnNumberLine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/LISPrint2Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/LISequences/LISPrint2Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/LISPrinting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/LISequences/LISPrinting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MaxBitonicLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/BiTonicArrays/MaxBitonicLength.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MaxLenCond1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubArrays/MaxLenSubArrayCond1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MaxOfSubArrayDQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubArrays/MaxOfSubArrayDQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MaxSumBitonic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/BiTonicArrays/MaxSumBitonic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MaxSumBitonic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/BiTonicArrays/MaxSumBitonic2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MinFebonacciJumpsArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/MinFebonacciJumpsArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/MinOfMaxJumpsK.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/MinOfMaxJumpsK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/ReachKthStepSomeBroken.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/ReachKthStepSomeBroken.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/maximumSumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubArrays/maximumSumSubarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/mergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MergingArrays/mergeSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/minJumps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/minJumps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/minJumps2same.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/minJumps2same.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/perfectSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubArrays/perfectSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/subsetSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/SubSets/subsetSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderOfFile/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/FolderOfFile/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonPractice/JsFile.json" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/JsonPractice/JsFile.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonPractice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/BiTonicArrays/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonPractice/json1Try.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/JsonPractice/json1Try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonPractice/jsonEquivalentPython.png" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/JsonPractice/jsonEquivalentPython.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonPractice/txt1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/JsonPractice/txt1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrixes/minPathMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/minPathMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrixes/upperTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/upperTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sortings/SortKModulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sortings/SortKModulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubStringOfVowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/KUniquesIntSubs/LongestSubStringOfVowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/OuterInner.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/OuterInner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/display_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/display_info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/firstClassClosures.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/firstClassClosures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/snippets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/snippets.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstClassAndClosures/wrapperExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/firstClassAndClosures/wrapperExample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/DecoratorsGS.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/DecoratorsGS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/LISequences/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/classMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/classMethods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/class_vars.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/class_vars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/inheritenceP.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/inheritenceP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/oop1_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/oop1_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops_CS/opr_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/oops_CS/opr_overloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/FindMaxNCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practiceMixed/FindMaxNCR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/KWargsDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/KWargsDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/MakeBigestNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practiceMixed/MakeBigestNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/MergingDictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practiceMixed/MergingDictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/NumOfWaysCoverDistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/JumpingArrays/NumOfWaysCoverDistance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MaxLenSubArrayUglyNums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/filePyTraining.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/filePyTraining.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/newFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/newFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/newText2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MergingArrays/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/squareRoot.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practiceMixed/squareRoot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/wordCounting.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practiceMixed/wordCounting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-practice/yieldsGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCS_CG/yieldsGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrixes/spiralMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/spiralMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SumBottomView.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/SumBottomView.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,8 +70,71 @@
       <recent name="H:\intPython2-cg\python-practice\Arrays\MergingArrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NthUglyNumBetter">
-    <configuration name="NthUglyNumBetter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PrintAllPaths">
+    <configuration name="MaxOfSubArrayDQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays/SubArrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/SubArrays/MaxOfSubArrayDQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PqUsingBinaryHeap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heapqOrHeapUsingQueue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heapqOrHeapUsingQueue/PqUsingBinaryHeap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrintAllPaths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrixes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="segrPosNeg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/NthUglyNumBetter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/segrPosNeg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrintDiamondStars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spiralMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,70 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/PrintDiamondStars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PrintPascalsTraingle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrixes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/PrintPascalsTraingle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="patternGeeks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrixes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/patternGeeks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="upperTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrixes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/upperTriangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/spiralMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NthUglyNumBetter" />
-        <item itemvalue="Python.patternGeeks" />
-        <item itemvalue="Python.PrintPascalsTraingle" />
-        <item itemvalue="Python.PrintDiamondStars" />
-        <item itemvalue="Python.upperTriangle" />
+        <item itemvalue="Python.PrintAllPaths" />
+        <item itemvalue="Python.MaxOfSubArrayDQ" />
+        <item itemvalue="Python.PqUsingBinaryHeap" />
+        <item itemvalue="Python.spiralMatrix" />
+        <item itemvalue="Python.segrPosNeg" />
       </list>
     </recent_temporary>
   </component>
@@ -323,22 +230,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="86" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589045749261" />
-    <state width="1323" height="221" key="GridCell.Tab.0.bottom" timestamp="1589313995415">
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1590486305689">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="221" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589313995415" />
-    <state width="1323" height="221" key="GridCell.Tab.0.center" timestamp="1589313995415">
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1590486305689">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="221" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589313995415" />
-    <state width="1323" height="221" key="GridCell.Tab.0.left" timestamp="1589313995415">
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1590486305685">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="221" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589313995415" />
-    <state width="1323" height="221" key="GridCell.Tab.0.right" timestamp="1589313995415">
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590486305685" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1590486305689">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="221" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589313995415" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1586204393463">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

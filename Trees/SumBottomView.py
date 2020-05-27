@@ -58,5 +58,5 @@ if __name__ == "__main__":
     root.right.right = Node(25)
     root.left.right.left = Node(10)
     root.left.right.right = Node(14)
-
+    print("sum of bottom view of binary try is ==", end=" ")
     print(SumOfBottomView(root))

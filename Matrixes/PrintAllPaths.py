@@ -7,7 +7,7 @@ allPaths = []
 
 
 def findPaths(maze, m, n):
-    path = [0 for d in range(m + n - 1)]
+    path = [0 for d in range(m + n - 1)]   # m+n-1 is the maximum length path possible
     findPathsUtil(maze, m, n, 0, 0, path, 0)
 
 
