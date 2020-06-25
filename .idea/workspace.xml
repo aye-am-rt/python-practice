@@ -20,18 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8abb3013-fae5-480a-8708-2c886ef7e352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Matrixes/CheckWordExists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrixes/SearchWordIn2DGrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapqOrHeapUsingQueue/PqUsingBinaryHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practiceMixed/2WaterJugMeasure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practiceMixed/Celibrity2Pointers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practiceMixed/CelibrityProblemRecursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/DoubleValInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrixes/TimeHumansToZombie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/Laravel VS NodeJS _ What's the Difference and which one is better_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/MaxProdPathMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/Python __Underscore__ Methods - Siafoo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-practiceMixed/Python's Magic Methods « rafekettler.com.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/PrintAllPaths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrixes/spiralMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixes/spiralMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/L_Pal_SubSequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/SumBottomView.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/SumBottomView.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,49 @@
       <recent name="H:\intPython2-cg\python-practice\Arrays\MergingArrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PrintAllPaths">
+  <component name="RunManager" selected="Python.TimeHumansToZombie">
+    <configuration name="DoubleValInArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/DoubleValInArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MakeBigestNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-practiceMixed" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-practiceMixed/MakeBigestNum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MaxOfSubArrayDQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,27 +123,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/SubArrays/MaxOfSubArrayDQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PqUsingBinaryHeap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heapqOrHeapUsingQueue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heapqOrHeapUsingQueue/PqUsingBinaryHeap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,28 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="segrPosNeg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/segrPosNeg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spiralMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeHumansToZombie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/spiralMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrixes/TimeHumansToZombie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TimeHumansToZombie" />
+        <item itemvalue="Python.DoubleValInArray" />
+        <item itemvalue="Python.MakeBigestNum" />
         <item itemvalue="Python.PrintAllPaths" />
         <item itemvalue="Python.MaxOfSubArrayDQ" />
-        <item itemvalue="Python.PqUsingBinaryHeap" />
-        <item itemvalue="Python.spiralMatrix" />
-        <item itemvalue="Python.segrPosNeg" />
       </list>
     </recent_temporary>
   </component>
@@ -218,10 +215,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584020966491">
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592854248835">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="363" y="104" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1584020966491" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1592854248835" />
     <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1589057400341">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -230,22 +227,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="86" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589045749261" />
-    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1590486305689">
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom" timestamp="1591908768928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
-    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1590486305689">
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591908768928" />
+    <state width="1323" height="130" key="GridCell.Tab.0.center" timestamp="1591908768928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
-    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1590486305685">
+    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591908768928" />
+    <state width="1323" height="130" key="GridCell.Tab.0.left" timestamp="1591908768928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590486305685" />
-    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1590486305689">
+    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591908768928" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right" timestamp="1591908768928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590486305689" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591908768928" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1586204393463">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -274,10 +271,6 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="65" y="60" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1589045729784" />
-    <state x="324" y="95" width="700" height="530" key="recent.locations.popup" timestamp="1583190938466">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="324" y="95" width="700" height="530" key="recent.locations.popup/0.0.1366.738@0.0.1366.738" timestamp="1583190938466" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1586298107517">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

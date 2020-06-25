@@ -113,3 +113,15 @@ Z
 *heapqOrHeapUsingQueue/PqUsingBinaryHeap.py,3\3\33f6774f95ba1b34a25000acc16f36c8d1ab0a97
 S
 #Arrays/SubArrays/MaxOfSubArrayDQ.py,e\c\ec403fa4dd0757c84f976addca1aead2083e214a
+Q
+!py-practiceMixed/MakeBigestNum.py,d\3\d393b921085560e6276174f6c1ff49b08c125de7
+X
+(Arrays/MergingArrays/mergeSortedArray.py,1\f\1ff7550c07f5ea7629a7a87423d806cd0277b1c1
+M
+Sortings/ProductDigitsSort.py,a\8\a8f0abc128df3841ca0d049999c0086dcb4ed9a5
+b
+2Strings/KUniquesIntSubs/GenerateStringKDistinct.py,1\e\1e87e42577624d331f0e61b372010ad2b9a2f724
+J
+Arrays/DoubleValInArray.py,b\f\bf956c97bfdfe6840339607d3515917c7f17b37f
+N
+Matrixes/TimeHumansToZombie.py,6\d\6dba17ca5003a6a4671664224767af753f877cb5
