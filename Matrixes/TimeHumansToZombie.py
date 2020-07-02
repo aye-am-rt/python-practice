@@ -29,7 +29,10 @@ def minHour(rows, columns, grid):
         return 0
 
     q = [[i, j] for i in range(rows) for j in range(columns) if grid[i][j] == 1]
+    print(q)  # this is two know where(co-ordinate) of zombies(1) are present in matrix.
+
     directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+    #            [go-down, go-up, go-right, go-left] add one of this to any cell i,j to go in req direction
     time = 0
 
     while True:

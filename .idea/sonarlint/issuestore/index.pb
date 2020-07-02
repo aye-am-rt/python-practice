@@ -111,8 +111,6 @@ H
 Matrixes/spiralMatrix.py,e\8\e81649b8a4ce990229c3bb6fae92b2f54c0cec63
 Z
 *heapqOrHeapUsingQueue/PqUsingBinaryHeap.py,3\3\33f6774f95ba1b34a25000acc16f36c8d1ab0a97
-S
-#Arrays/SubArrays/MaxOfSubArrayDQ.py,e\c\ec403fa4dd0757c84f976addca1aead2083e214a
 Q
 !py-practiceMixed/MakeBigestNum.py,d\3\d393b921085560e6276174f6c1ff49b08c125de7
 X
@@ -125,3 +123,11 @@ J
 Arrays/DoubleValInArray.py,b\f\bf956c97bfdfe6840339607d3515917c7f17b37f
 N
 Matrixes/TimeHumansToZombie.py,6\d\6dba17ca5003a6a4671664224767af753f877cb5
+P
+ py-practiceMixed/AngleOfClock.py,b\e\beadf28f5dc96dfd0b4910105a3f470d89eb0c97
+`
+0Arrays/SubArrays/Print_Max_ForEach_SubArrayDQ.py,f\7\f7ec80d9f3e568596ae4cff80dd4e7cc980182dc
+N
+Arrays/SubArrays/perfectSum.py,e\d\ed2dd4d4a5b36f3af36bc5e0a34f51d4e10a41b7
+Q
+!Matrixes/MaxSizeSubM_Bordered1.py,9\9\99a4c52bf7e3a3edae170ae4de53a87eb0f70498

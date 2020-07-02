@@ -13,7 +13,7 @@ def DoubleNumberInArray(ar, nd):
     print(f"given num = {nd}")
     curr = nd
     for elem in ar:
-        print(f"elem = {elem}", end=" ,")
+        print(f"elem = {elem}")
         if elem == curr:
             curr = curr * 2
             print(f"curr value after doubling = {curr}")
